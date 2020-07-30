@@ -2,9 +2,10 @@
 
 This page is the reference page to my DEF CON 28 presentation on Talking to Satellites. Once the video is live I will post a link to it down below.
 
+If I'm missing something, or don't find what you're looking for, please contact me on [[Discord]](https://discordapp.com/users/653685783500423197)
+
 # List of items to purchase
 * Baofeng UV-5RH: [Amazon](https://www.amazon.com/gp/product/B0716ZCX5W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-
 * Baofeng audio cable: [Amazon](https://www.amazon.com/BTECH-APRS-K1-Interface-APRSDroid-Compatible/dp/B01LMIBAZW/ref=sr_1_3?dchild=1&keywords=baofeng+audio+cable&qid=1596126162&s=electronics&sr=1-3)
 * CM108 USB Audio Card: [Amazon](https://www.amazon.com/gp/product/B07T4B3MP7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * Audio cable splitter: [Amazon](https://www.amazon.com/gp/product/B00PYZ2BT4/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)

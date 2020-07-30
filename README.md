@@ -23,3 +23,9 @@ If I'm missing something, or don't find what you're looking for, please contact 
 * Instructional 2M yagi antenna video: [jpole-antenna.com](https://www.jpole-antenna.com/2017/02/07/build-it-2-meter-tape-measure-yagi-beam-antenna/)
 * ISS Dopler shift information: [QSL.net](https://www.qsl.net/dg7ro/iss/afu/doppl-e.htm)
 * KissUtil man page: [KissUtil](https://www.mankier.com/1/kissutil)
+
+# Interesting Reading:
+* Direwolf presentation: [[Link]](https://microhams.blob.core.windows.net/content/2018/03/MHDC2018-WB2OSZ.pdf)
+* AMSAT-UK ISS: [[Link]](https://amsat-uk.org/beginners/how-to-work-the-iss-on-aprs-packet-radio/)
+* More ISS Contacts: [[Link]](https://www.essexham.co.uk/iss)
+* STEM Goals ISS Operation: [[Link]](http://www.ariss.org/uploads/1/9/6/8/19681527/k9jkm_2012_symposium_ver2.pdf)
